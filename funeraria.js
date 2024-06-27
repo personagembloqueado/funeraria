@@ -1,4 +1,4 @@
-console.log('bem vindo ao funerária Santa Luzia sua morte nossa alegria !!!')
+console.log('bem vindo ao funerária Santa Luzia. Sua morte nossa alegria !!!')
 
 const readline = require ('readline')
 
